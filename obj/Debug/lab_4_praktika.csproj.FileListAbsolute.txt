@@ -1,0 +1,16 @@
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\bin\Debug\lab_4_praktika.exe.config
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\bin\Debug\lab_4_praktika.exe
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\bin\Debug\lab_4_praktika.pdb
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.csproj.AssemblyReference.cache
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\MainWindow.g.cs
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\App.g.cs
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika_MarkupCompile.cache
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika_MarkupCompile.lref
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\MainWindow.baml
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.g.resources
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.Properties.Resources.resources
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.csproj.GenerateResource.cache
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.csproj.CoreCompileInputs.cache
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.exe
+C:\Users\307-10\Documents\WPF_prakt_Sav\lab_4_praktika\obj\Debug\lab_4_praktika.pdb
